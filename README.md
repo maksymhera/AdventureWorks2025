@@ -1,6 +1,6 @@
 # 📊 Executive Analytics Dashboard — AdventureWorks 2025
 
-A professional, senior-level BI analytics solution built on top of the **AdventureWorks2025** relational database. This project includes a T-SQL database deployment script for data mart modeling and an interactive **Power BI** dashboard designed with a dark corporate aesthetic.
+A professional BI analytics solution built on top of the **AdventureWorks2025** relational database. This project includes a T-SQL database deployment script for data mart modeling and an interactive **Power BI** dashboard designed with a dark corporate aesthetic.
 
 ---
 
